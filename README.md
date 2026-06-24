@@ -1,4 +1,5 @@
-# Hi, I'm Rishit 👋
+# Hi, I'm Rishit 👋![Stats](https://github-readme-stats.vercel.app/api?username=Rishit-Khandelwal&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit-Khandelwal&layout=compact&theme=tokyonight)
 
 I'm a software developer interested in backend systems, full-stack development, cybersecurity, and system programming.
 
